@@ -5,5 +5,6 @@ public class sabu {
     System.out.println(a);
    System.out.println(b);
 }
-}
-   
+}(
+    void add())
+   final int var = 256;

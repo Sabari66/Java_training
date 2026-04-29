@@ -38,7 +38,7 @@ public class operator {
         System.out.println("a"+(5+10));
         System.out.println(5+10+"a"+5+10);
 
-
+        
 
 
     }
