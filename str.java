@@ -1,7 +1,7 @@
 class str{
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
-        sb.append("Ooty-Sabari");
+        sb.append("Erode-Sabari");
         System.out.println("Main String: "+sb);
         sb.replace(0, 3, "Erod");
         System.out.println("Replaced string: "+sb);
